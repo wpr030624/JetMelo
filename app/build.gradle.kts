@@ -11,11 +11,11 @@ plugins {
 }
 
 android {
-    namespace = "com.rcmiku.music"
+    namespace = "com.netease.cloudmusic"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.rcmiku.music"
+        applicationId = "com.netease.cloudmusic"
         minSdk = 26
         targetSdk = 35
         versionCode = 1
